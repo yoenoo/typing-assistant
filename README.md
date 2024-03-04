@@ -18,7 +18,7 @@ $ ollama run mistral:7b-instruct-v0.2-q4_K_S
 
 Run the application by 
 ```
-$ typing-assistant/app.py
+$ python3 typing-assistant/app.py
 ```
 
 Note: currently only supports MacOS. tested on Macbook Air M2 model.
