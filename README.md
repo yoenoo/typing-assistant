@@ -23,6 +23,11 @@ $ python3 typing-assistant/app.py
 
 Note: currently only supports MacOS. tested on Macbook Air M2 model.
 
+### Demo
+<p align="center">
+    <img src="asset/typing-assistant-demo-local-mistral-7b-q4.gif" width="480" />
+</p>
+
 ## Support 
 - [ ] Ollama model auto-download
 - [ ] OS support: Windows
